@@ -1,0 +1,23 @@
+http://www.air-watch.com/zh-hant/solutions/mobile-device-management
+
+隱私權考量
+
+依照裝置之所有權類型和透過客製的隱私權原則，AirWatch能讓公司分隔員工裝置內企業和個人的資料。配置客製化的原則，可防止公司不經許可地收集員工擁有裝置中的私人Email、內容或APP的資料。GPS定位、使用者個人的資料和電訊數據將保持不透明化。此外，員工私有裝置，將不會受到原廠還原抹除或遠端控管之威脅，使員工安心地使用其裝置。AirWatch大大地減低了企業在允許員工存取企業資源時，所面臨的風險。此外，根據使用者身份、客製化的使用者條款(TOU)、企業群組和裝置平台，使用者可以明確地知道何種數據資料將被公司所記錄，並且瞭解他們裝置的使用權限。
+
+它清楚地隔離了公司和個人的資料
+
+
+移除企業資源
+
+當終端使用者解除註冊或離開公司時，管理員可移除企業email、Wi-Fi和VPN的存取權。在使用者離開時，您可移除裝置內的公司內部APP和企業內容。最後，您可執行裝置企業抹除功能而不影響到裝置內的個人私有內容。
+
+AirWatch Workspace 管理將裝置上的公司和個人資料完全地分開，不但能保全公司資料，同時也能保障員工個人的隱私。
+
+
+https://www.mobileiron.com/cn/why-mobileiron/mobile-infrastructure
+
+http://www.citrix.com/products/xenmobile/overview.html
+http://www.citrix.com.tw/?_ga=1.46729895.1229970603.1422864505
+MDX 應用程式容器技
+
+https://meraki.cisco.com/solutions/mobile-device-management
